@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:black;
+	padding:20px 50px;
+}
+#photo-heading{
+	text-align:center;
+	color:white;
+}
+.container img{
+		border-radius:20px;
+}
